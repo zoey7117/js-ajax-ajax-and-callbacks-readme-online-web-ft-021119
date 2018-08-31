@@ -244,7 +244,7 @@ $.get('this_doesnt_exist.html', function(data) {
 	doSomethingGood();
 }).fail(function(error) {
 	// This is called when an error occurs
-	console.log('Something went wrong: ' + error);
+	console.log('Something went wrong: ' + error.statusText);
 });
 ```
 
