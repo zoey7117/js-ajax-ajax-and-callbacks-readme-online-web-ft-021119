@@ -84,7 +84,7 @@ Twitter API. From our Postman experiment, we saw how GitHub provides a way for
 us to interact with the data on their system. Just like how a class provides a
 set of public methods to interact with, web APIs provide us with URLs.
 
-The list of URLs that GitHub provides on https://developer.github.com/v3 act as
+The list of URLs that GitHub provides on https://developer.github.com/v3 acts as
 the public methods into their system. The developers that created the API
 control which resources they want to share and who has access to them. In the
 end it's all just the same data available on GitHub.com. The big difference is
